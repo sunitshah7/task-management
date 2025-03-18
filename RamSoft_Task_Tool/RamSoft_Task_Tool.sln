@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RamSoft_Task_Tool", "RamSoft_Task_Tool.csproj", "{DDD3AC96-C491-4AEB-BED4-BA69ACC237AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectTaskTool", "..\TestProjectTaskTool\TestProjectTaskTool.csproj", "{D799E401-5CF4-4B9C-9286-DCB99E02C593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD3AC96-C491-4AEB-BED4-BA69ACC237AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD3AC96-C491-4AEB-BED4-BA69ACC237AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD3AC96-C491-4AEB-BED4-BA69ACC237AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD3AC96-C491-4AEB-BED4-BA69ACC237AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D799E401-5CF4-4B9C-9286-DCB99E02C593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D799E401-5CF4-4B9C-9286-DCB99E02C593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D799E401-5CF4-4B9C-9286-DCB99E02C593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D799E401-5CF4-4B9C-9286-DCB99E02C593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03568D52-1406-42C5-88B3-11EB5366B867}
+	EndGlobalSection
+EndGlobal
